@@ -69,3 +69,7 @@ div.row.filter-choices {
 div.row.recipe-results {
   max-width:600px;
 }
+
+img.loading{
+  width:50px;
+}

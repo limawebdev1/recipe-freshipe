@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Recipe-Results" transform="translate(-483.000000, -913.000000)" fill-rule="nonzero" fill="#30AA44">
+            <g id="plus" transform="translate(483.000000, 913.000000)">
+                <path d="M26,0 C11.664,0 0,11.663 0,26 C0,40.337 11.664,52 26,52 C40.336,52 52,40.337 52,26 C52,11.663 40.336,0 26,0 Z M26,50 C12.767,50 2,39.233 2,26 C2,12.767 12.767,2 26,2 C39.233,2 50,12.767 50,26 C50,39.233 39.233,50 26,50 Z" id="Shape"></path>
+                <path d="M38.5,25 L27,25 L27,14 C27,13.447 26.552,13 26,13 C25.448,13 25,13.447 25,14 L25,25 L13.5,25 C12.948,25 12.5,25.447 12.5,26 C12.5,26.553 12.948,27 13.5,27 L25,27 L25,39 C25,39.553 25.448,40 26,40 C26.552,40 27,39.553 27,39 L27,27 L38.5,27 C39.052,27 39.5,26.553 39.5,26 C39.5,25.447 39.052,25 38.5,25 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
