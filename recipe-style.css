@@ -1,0 +1,58 @@
+html, body {
+  height: 100%;
+  font-family: 'Montserrat';
+}
+
+nav {
+  background-color: #CBFFC9;
+}
+
+img#logo {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+div.row.recipe-header {
+  margin-top: 70px;
+  max-width: 900px;
+}
+
+img.food-img {
+  object-fit: cover;
+  width: 150px;
+  height: 150px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+p.source {
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+p.info {
+  margin-top:0px;
+}
+
+img.star {
+  width: 30px;
+  cursor: pointer;
+}
+
+div.row.recipe-body {
+  max-width: 900px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+div.col.ingredient-list {
+  padding-left: 15px;
+}
